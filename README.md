@@ -1,0 +1,2 @@
+# EverythingMiningz
+Minecraft Server Website
