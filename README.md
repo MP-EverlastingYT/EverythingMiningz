@@ -1,2 +1,2 @@
-# EverythingMiningz
-Minecraft Server Website
+# MP_Everlasting
+Youtube Page
